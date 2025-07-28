@@ -31,11 +31,10 @@ A powerful Telegram real-time message downloader that supports automatic monitor
 
 ### 📦 Download & Installation
 
-1. Go to the [Releases](https://github.com/your-repo/releases) page
+1. Go to the [Releases](https://github.com/just-another-account/telegram-live-downloader/releases) page
 2. Download the installation package for your platform:
    - Windows: `Telegram-Live-Downloader-Setup-x.x.x.exe`
    - macOS: `Telegram-Live-Downloader-x.x.x.dmg`
-   - Linux: `Telegram-Live-Downloader-x.x.x.AppImage`
 
 ### 🔑 First Login
 

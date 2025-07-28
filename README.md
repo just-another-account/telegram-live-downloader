@@ -31,11 +31,10 @@
 
 ### 📦 下载安装
 
-1. 前往 [Releases](https://github.com/your-repo/releases) 页面
+1. 前往 [Releases](https://github.com/just-another-account/telegram-live-downloader/releases) 页面
 2. 下载对应平台的安装包：
    - Windows: `Telegram-Live-Downloader-Setup-x.x.x.exe`
    - macOS: `Telegram-Live-Downloader-x.x.x.dmg`
-   - Linux: `Telegram-Live-Downloader-x.x.x.AppImage`
 
 ### 🔑 首次登录
 
